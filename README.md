@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 ![preview-01_1683292503880](https://github.com/leovenom/UI-UX_website/assets/45887012/334fd156-e443-460b-be52-9eecef238bf6)
 ![preview-06_1683292491683](https://github.com/leovenom/UI-UX_website/assets/45887012/0dbbc631-ef90-4295-a9f1-ab431610329c)
 ![preview-02_1683292501091](https://github.com/leovenom/UI-UX_website/assets/45887012/337e363a-4a02-4ad3-bd61-bdc4bbeb2d9d)
+# wadyclor
