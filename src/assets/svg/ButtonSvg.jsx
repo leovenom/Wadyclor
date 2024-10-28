@@ -47,15 +47,16 @@ const ButtonSvg = (orange) => (
       className="absolute top-0 right-0"
       width="22"
       height="44"
-      viewBox="0 0 21 44"
-      transform="rotate(180)"
+      viewBox="0 0 22 44"
     >
-      <path
-        fill={orange ? "#CE5623" : "none"}
-        stroke={orange ? "#CE5623" : "url(#btn-right)"} // mentioned in ButtonGradient.jsx
-        strokeWidth="2"
-        d="M21,43.00005 L8.11111,43.00005 C4.18375,43.00005 1,39.58105 1,35.36365 L1,8.63637 C1,4.41892 4.18375,1 8.11111,1 L21,1"
-      />
+  <path
+  fill={orange ? "#CE5623" : "none"}
+  stroke={orange ? "#CE5623" : "url(#btn-right)"}
+  strokeWidth="2"
+  transform="rotate(180, 10.5, 22)"
+  d="M21,43.00005 L8.11111,43.00005 C4.18375,43.00005 1,39.58105 1,35.36365 L1,8.63637 C1,4.41892 4.18375,1 8.11111,1 L21,1"
+/>
+
     </svg>
   </>
 );

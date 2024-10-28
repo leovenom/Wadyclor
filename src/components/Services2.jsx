@@ -22,8 +22,8 @@ const Services = () => {
                 </div>
             
             <div className="relative z-1 xl:max-w-[rem] md:max-w-[21rem] mr-auto">
-              <h4 className="h4 mb-4">Wadyclor</h4>
-              <p className="text-sm lg:text-sm md:text-xs mb-[4rem] text-n-2">
+              <h4 className="h4 mb-4"></h4>
+              <p className="body-2 mb-[4rem] text-n-1">
               Você também pode oferecer aos seus clientes produtos com uma cromação de confiança e qualidade. Entre em contato conosco!
               </p>
             <Button href="https://wa.me/+1129660899" external white>

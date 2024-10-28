@@ -85,21 +85,13 @@ export const roadmap = [
   {
     id: "0",
     title: "Fundada em maio de 1965",
-    text: "Fundada em 1965, a Wadyclor é pioneira na cromação de peças plásticas no Brasil. Nosso compromisso é estabelecer relações comerciais bem-sucedidas e de longo prazo, entregando acabamentos galvânicos de alta qualidade de forma ágil e a preços acessíveis.",
+    text: "A Wadyclor é pioneira na cromação de peças plásticas no Brasil. Nosso compromisso é estabelecer relações comerciais bem-sucedidas e de longo prazo, entregando acabamentos galvânicos de alta qualidade de forma ágil e a preços acessíveis.",
     status: "done",
     imageUrl: roadmap1,
     colorful: true,
   },
   {
     id: "1",
-    title: "Visão",
-    text: "Temos como visão a continuidade de uma história de destaque no mercado nacional como confiável prestador de serviços de tratamento de superfícies.",
-    status: "progress",
-    imageUrl: roadmap2,
-    colorful: true,
-  },
-  {
-    id: "2",
     title: "Missão",
     text: "Nossa missão é garantir a confiabilidade e preferência dos clientes, por meio de um sistema de trabalho dinâmico que continuamente aprimora nossos serviços para atender às expectativas de forma sustentável, socialmente responsável e lucrativa. ",
     status: "done",
@@ -107,9 +99,17 @@ export const roadmap = [
     colorful: true,
   },
   {
+    id: "2",
+    title: "Visão",
+    text: "Temos como visão a continuidade de uma história de destaque no mercado nacional como confiável prestador de serviços de tratamento de superfícies.",
+    status: "progress",
+    imageUrl: roadmap2,
+    colorful: true,
+  },
+  {
     id: "3",
     title: "Wadyclor",
-    text: "Com mais de 55 anos de experiência servimos diversas indústrias, atendemos desde pequenos até grandes volumes com a mesma flexibilidade e velocidade na entrega.",
+    text: "São mais de 55 anos de experiência prestando serviços para clientes de diferentes portes e segmentos, sempre com foco na qualidade, flexibilidade e velocidade na entrega.",
     status: "progress",
     imageUrl: roadmap4,
     colorful: true,
@@ -248,7 +248,7 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Compromisso com a Qualidade na Wadyclor",
+    title: "Qualidade",
     text: "A Alta Direção da Wadyclor tomou uma decisão estratégica para implementar um Sistema de Gestão da Qualidade. Este sistema é projetado para aumentar continuamente a eficácia e eficiência do trabalho da empresa, atendendo às necessidades dos stakeholders de forma sistemática e transparente.",
     backgroundUrl: "assets/benefits/card-1.svg",
   },
@@ -273,11 +273,13 @@ export const socials = [
     title: "WhatsApp",
     iconUrl: whatsapp,
     url: "https://wa.me/+1129660899",
+    color: "#25d366",
   },
   {
     id: "4",
     title: "Linkedin",
     iconUrl: linkedin,
     url: "https://www.linkedin.com/company/wadyclor",
+    color: "#0e76a8",
   },
 ];

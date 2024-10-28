@@ -10,7 +10,7 @@ const Collaboration = () => {
       <div className="container lg:flex">
         <div className="max-w-[32rem]">
           <h3 className="h3 mb-4 md:mb-8">
-            Cromação de peças plásticas dos tipos ABS, ABS-PC e PA
+            Cromação Decorativa de peças plásticas dos tipos ABS, ABS-PC e PA
           </h3>
           <p className="body-2 mb-2 text-n-2 md:mb-8 lg:mb-8 lg:mx-auto ">
             {collabText}
@@ -29,7 +29,7 @@ const Collaboration = () => {
         </div>
         <div className="lg:ml-auto xl:w-[32rem] xl:mt-[13rem]">
 
-          <div className="relative mt-2 left-1/2 flex w-full w-[32rem] border border-n-6 rounded-full -translate-x-1/2 scale:75 md:scale-100">
+          <div className="relative mt-16 md:mt-2 left-1/2 flex w-full w-[32rem] border border-n-6 rounded-full -translate-x-1/2 scale:75 md:scale-100">
               <img
                   src={pecas}
                   className="w-full h-auto object-cover"

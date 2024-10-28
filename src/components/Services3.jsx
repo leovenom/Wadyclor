@@ -22,7 +22,7 @@ const Services = () => {
                 <br /> Cep 03185-010
                 <br /> <br />
                 Fone: (11) 2966-0899<br />
-                <u><a href="falecom@wadyclor.com.br" >falecom@wadyclor.com.br</a></u>
+                <u><a href="mailto:falecom@wadyclor.com.br" >falecom@wadyclor.com.br</a></u>
                 <br /> <br />
                 CNPJ: 61.454.971/0001-04<br />
                 I.E. 105.835.894.111
